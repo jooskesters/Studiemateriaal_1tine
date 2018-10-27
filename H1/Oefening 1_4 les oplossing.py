@@ -1,0 +1,6 @@
+print('oefening boekenverkoop')
+print((24.95 * 0.60 * 60 + 0.75 * 59 + 3))
+print(9 // -2)
+print(9 // 2)
+print(9 % -2)
+print(9 % 2)
